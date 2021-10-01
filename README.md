@@ -1,17 +1,18 @@
-# Document for CS4273 classes
+# Final Project Class CS4273.CTTT.M11.!
 
 Participants:
 
-- Leader: [Name - ID]
-- Member: [Name - ID]
-- Member: [Name - ID]
+- Leader: Dang Truc Lam - 19521736
+- Member: Le Ngoc Thuy An - 19521176
+- Member: Tang Quoc Hung - 19521583
+- Member: Vo Quoc Binh - 19520417
 
 
-Task management table: [here](https://trello.com/b/N0dTGGkV) [Replace by your public board later]
+Task management table: [here](https://comfortable-bayberry-7df.notion.site/Project-NMCNPM-878a23d0af2c4152b328de8d629a0c1a)
 
-UI / UX prototype: [here](https://www.figma.com/community/file/1017274846862703022) [Replace by your public prototype later]
+UI / UX prototype: [here] (update later)
 
-Tech stacks:
+Tech stacks: [update later]
 
 - Front-end: [...]
 - Back-end: [...]
@@ -20,13 +21,7 @@ Tech stacks:
 
 Demo online: [link to website - update later]
 
-*[Delete below text when you forked]*
-
-## 1. What do you need to know?
-
-This repository is the sample. For saving time, you can fork it and develop your repository independently.
-
-## 2. About the structure
+## Folder Information:
 
 - Folder Code: contain whole codes, include FE - BE - Database, ...
 
