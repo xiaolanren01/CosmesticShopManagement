@@ -16,8 +16,7 @@ Tech stacks: [update later]
 
 - Front-end: [...]
 - Back-end: [...]
-- Database: [...]
-- ...
+- Database: MySQL
 
 Demo online: [link to website - update later]
 
