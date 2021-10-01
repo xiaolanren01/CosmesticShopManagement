@@ -1,4 +1,4 @@
-# Final Project Class CS4273.CTTT.M11.!
+# Final Project for Class CS4273.CTTT.M11.1
 
 Participants:
 
