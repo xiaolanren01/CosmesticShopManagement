@@ -10,7 +10,7 @@ Participants:
 
 Task management table: [here](https://comfortable-bayberry-7df.notion.site/Project-NMCNPM-878a23d0af2c4152b328de8d629a0c1a)
 
-UI / UX prototype: [here] (https://www.figma.com/file/YlUQcsnHvmm7WWFIkEkk9z/Cosmestic-Shop-Landing-page?node-id=3%3A2)
+UI / UX prototype: [here](https://www.figma.com/file/YlUQcsnHvmm7WWFIkEkk9z/Cosmestic-Shop-Landing-page?node-id=3%3A2)
 
 Tech stacks: [update later]
 
